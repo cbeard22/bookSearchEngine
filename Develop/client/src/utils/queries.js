@@ -2,7 +2,7 @@ import { gbl } from '@apollo/client';
 
 export const GET_BOOK = gbl`
 query {
-    book{
+    me{
         username
         savedBooks {
             title
