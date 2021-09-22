@@ -1,6 +1,6 @@
-import { gbl } from '@apollo/client';
+import { gql } from '@apollo/client';
 
-export const GET_BOOK = gbl`
+export const GET_ME = gql`
 query {
     me{
         username
@@ -8,7 +8,7 @@ query {
             title
             description
             authors
-            bookID
+            bookId
         }
     }
 }
