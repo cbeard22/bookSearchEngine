@@ -41,3 +41,4 @@ For this project I utilized:
   - Node.js
   - Mongoose
   - Bcrypt
+  - GraphQL
