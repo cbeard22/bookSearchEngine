@@ -4,6 +4,14 @@
 
 https://my-book-search-cb.herokuapp.com/
 
+## Table of Contents
+
+- [Description](#description)
+- [Usage](#usage)
+- [Installation](#installation)
+- [License](#license)
+- [Credits](#credits)
+
 ## Description
 
 This is a MERN application that allows the user to sign in and search for books. The user can then add them to their list to save for later and delete them when they have read them. 
@@ -11,6 +19,23 @@ This is a MERN application that allows the user to sign in and search for books.
 ## Usage
 
 You can clone the github repository and edit the code to your liking. Then adjust the source and image links to display your information. 
+
+## Installation
+
+Make sure you have a code editor, terminal of your choosing installed on your local computer.
+
+Install npm and Node.js on your local computer.
+
+Install Git and Github on your local computer and register to get an account.
+
+Install MongoDB and create an account.
+
+Clone or Fork this repository: (https://github.com/cbeard22/fitnessTracker)
+
+After cloning the repository to your local computer:
+- Initialize npm 
+
+You can then deploy this to Heroku or you can run it on your local computer.
 
 ## Look
 
